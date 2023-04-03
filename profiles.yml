@@ -11,8 +11,8 @@ default:
       password: Dbtuser@2
       role: TRANSFORMER_DEV
       database: DEV
-      warehouse: TRANSFORMING_DEV
-      schema: SUNDARAM_DEV
+      warehouse: TRANSFORMING
+      schema: dbt_smaddheshiya
       threads: 2
       client_session_keep_alive: False
 
